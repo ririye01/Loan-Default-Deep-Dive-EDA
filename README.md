@@ -16,6 +16,6 @@ The primary motive behind assembling this dataset was likely the financial secto
 
 The intention of the Kaggle dataset being released is to determine the likelihood of a borrower defaulting on their loan. Knowing the tendencies of other borrowers in the past, banks can then pre-emptively decide whether or not to approve a borrower's loan application. Rejecting applicants who will likely default on their loan based on previous evidence of borrowers with similar attribute variables. By understanding the factors that contribute to loan defaults, banks and lending institutions can make better-informed decisions, tailor products, or adjust strategies based on these insights.
 
-### **1.4: Algorithm Performance Expectation for Profitability**
+## **1.4: Algorithm Performance Expectation for Profitability**
 
 In order for this task to deliver successful ROI, a classification algorithm would need to gain deeper, more insightful correlations with loan defaults. The algorithm's success in predicting loan defaults using all the variables in the dataset must be superior in accuracy, time efficiency, and scalability compared to current methods being used right now for it to be deemed beneficial. Simply put, a useful algorithm would be one that not only predicts loan defaults with high accuracy but does so faster and more reliably than current banking practices. Such an algorithm would offer these stakeholders a genuine edge in decision-making, risk management, and strategic planning.
